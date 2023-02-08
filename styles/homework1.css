@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    ;
+}
+
+.box {
+    border: 2px dotted rgb(78, 73, 73);
+    width: 1200px;
+    margin-left: 10%;
+    background-color: beige;
+}
+
+h1 {
+    background-color: chartreuse;
+    color: red;
+    font-size: 2em;
+}
+
+img {
+    /* box-sizing: border-box; */
+    width: 450px;
+    border: 5px ridge red;
+    padding: 5px;
+    margin: 5px;
+}
+
+.img1 {
+    float: left;
+}
+
+.img2 {
+    float: right;
+}
+
+.fig1 {
+    background-color: rgb(201, 228, 246);
+    float: left;
+    margin: 10px;
+}
+
+.fig2 {
+    background-color: rgb(201, 228, 246);
+    float: right;
+    margin: 5px;
+}
+
+p {
+    margin: 15px;
+}
