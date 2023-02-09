@@ -1,0 +1,54 @@
+body {
+    background-color: #F0F0F0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    border: 2px dotted rgb(78, 73, 73);
+    width: 1200px;
+    margin-left: 18.5%;
+    background-color: beige;
+}
+
+h1 {
+    background-color: chartreuse;
+    color: red;
+    font-size: 2em;
+}
+
+img {
+    /* box-sizing: border-box; */
+    width: 450px;
+    border: 5px ridge red;
+    padding: 5px;
+    margin: 5px;
+}
+
+.img {
+    width: 100%;
+}
+
+
+.fig1 {
+    background-color: rgb(201, 228, 246);
+    width: 35%;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.fig2 {
+    background-color: rgb(201, 228, 246);
+    width: 35%;
+    float: right;
+    margin: 5px;
+    text-align: center;
+}
+
+p {
+    margin: 18px;
+}
